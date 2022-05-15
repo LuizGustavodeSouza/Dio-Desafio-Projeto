@@ -1,3 +1,6 @@
+body{
+	background: #ccc;
+}
 #title, .subtitle, .post_title {
 	color: blue;
 
@@ -9,5 +12,12 @@ font-style: italic;
 }
 .teste{
 font-size: 16px;
+
+}
+.post{
+	background: #fff;
+	padding: 10px;
+	border: 3px solid #000;
+	margin: 10px;
 
 }
