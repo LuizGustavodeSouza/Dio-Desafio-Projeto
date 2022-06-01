@@ -1,3 +1,6 @@
-#Contador
+# Introdução ao Javascript
 
-###Neste projeto, iremos fazer a nossa primeira integração de um código Javascript com uma página HTML.
+Projetos referentes ao curso "Introdução ao Javascript" que ministrei pela [Digital Innovation One](https://digitalinnovation.one/).
+
+- To-do List
+- Contador
