@@ -1,7 +1,5 @@
 function calculaIdade(anos) {
-	return `Daqui a ${anos} anos, ${this.nome} terá ${
-		this.idade + anos
-	} anos de idade.`;
+	return  `Daqui a ${anos} anos, ${this.nome} terá ${this.idade + anos} anos de idade.`;
 }
 
 const pessoa1 = {
@@ -19,5 +17,5 @@ const pessoa3 = {
 	idade: 13,
 };
 
-console.log(calculaIdade.call(pessoa3, 40));
-console.log(calculaIdade.apply(pessoa2, [24]));
+console.log(calculaIdade.call(pessoa3, 20));
+console.log(calculaIdade.apply(pessoa2, [30]));

@@ -14,11 +14,21 @@ const alunos = [
 		nota: 6,
 		turma: '2C',
 	},
+	{
+		nome: 'Gustavo',
+		nota: 6,
+		turma: '2C',
+	},
+	{
+		nome: 'Hernri Cristo',
+		nota: 3,
+		turma: '2C',
+	},
 ];
 
-function alunosAprovados(alunos, media) {
+function alunosAprovados(alunos, media ) {
 	let aprovados = [];
-
+	
 	for (let i = 0; i < alunos.length; i++) {
 		let { nota, nome } = alunos[i];
 
