@@ -3,9 +3,9 @@ export function mostraIdade(nome, idade) {
 }
 
 export function mostraCidade(nome, cidade) {
-	return `A idade de ${nome} é ${cidade}.`;
+	return `A cidae de ${nome} é ${cidade}.`;
 }
 
 export function mostraHobby(nome, hobby) {
-	return `A idade de ${nome} é ${hobby}!`;
+	return `O hobby de ${nome} é ${hobby}!`;
 }
