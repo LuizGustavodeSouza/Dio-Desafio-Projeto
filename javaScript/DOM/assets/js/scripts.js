@@ -3,14 +3,14 @@ function changeMode() {
 	changeText();
 }
 
-function changeClasses() {
+function changeClasses() {	// Altera a clase para Dark Mode
 	button.classList.toggle(darkModeClass);
 	h1.classList.toggle(darkModeClass);
 	body.classList.toggle(darkModeClass);
 	footer.classList.toggle(darkModeClass);
 }
 
-function changeText() {
+function changeText() {  //Altera texto do botão
 	const lightMode = 'Light Mode';
 	const darkMode = 'Dark Mode';
 

@@ -48,7 +48,7 @@ button {
 	transition: all 0.5s linear;
 }
 
-button:hover {
+button:hover {					/* seletor de foco onde mudar de cor quando mouse esta sobro o elemento*/ 
 	background-color: #000401;
 }
 
