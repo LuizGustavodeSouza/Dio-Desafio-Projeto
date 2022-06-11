@@ -1,0 +1,18 @@
+°Verifiva versão  node instalada
+node -v = v16.15.0
+
+°Instalar typeScript globa
+node npn install -g typescript
+
+°Verificar versão typeScript intalada
+node tsc -v
+
+°Transpilar TS para JS
+tsc nome.ts // Gerar um arquivo JS
+
+°Transpilar e cria um arquivo script.JS
+npx -p typescript tsc
+
+°Criar Arquivo de Configuração TSconfig.json
+npx -p typescript tsc --init
+
