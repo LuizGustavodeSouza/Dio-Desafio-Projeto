@@ -16,3 +16,32 @@ npx -p typescript tsc
 °Criar Arquivo de Configuração TSconfig.json
 npx -p typescript tsc --init
 
+..............REACTJS.......
+npm  init
+
+npm install --save  react react-dom react-scripts
+npm install --save react@16.8.6 react-dom@16.8.6 react-scripts@3.0.1
+
+npm install --save  -g create-react-app react react-dom react-scripts
+
+°Cria sua configuração
+npm install -g create-react-app
+create-react-app minha-primeira-app
+
+°Start na sua configuração
+npm start
+................
+
+°Criação do arquivo webpack.confing.ls
+
+npm i -D webpack webpack-cli
+npm install --save-dev webpack webpack-cli
+
+"build": "webpack --mode production"
+
+npm i @babel/core babel-loader @babel/preset-env @babel/present-react --save-dev
+
+..............
+° Eslint
+npm install --save-dev eslint babel-eslint eslint-plugin-react eslint-watch
+ 
