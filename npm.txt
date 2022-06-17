@@ -44,4 +44,11 @@ npm i @babel/core babel-loader @babel/preset-env @babel/present-react --save-dev
 ..............
 ° Eslint
 npm install --save-dev eslint babel-eslint eslint-plugin-react eslint-watch
- 
+
+°Css in JS 
+npm install --save styled-components
+
+.........
+°Instalando o Rudux
+npm install react-redux
+npm install -- save-dev redux-devtools  = estalar extenção no chrome web
