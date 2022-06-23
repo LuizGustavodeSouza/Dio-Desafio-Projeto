@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Este repositorio está em dessenvolvimento de novas funções como a de dark mode.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About project
