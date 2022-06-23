@@ -5,6 +5,8 @@ export const Wrapper = styled.div`
   width: 100%;
   justify-content: space-between;
   padding: 4px;
+  
+
 
   input {
     border: 1px solid #ccc;
@@ -13,10 +15,11 @@ export const Wrapper = styled.div`
     height: 44px;
     padding: 8px;
     font-weight: 500;
+    
   }
 
   button {
-    background-color: #225ed8;
+    background-color: #1E90FF;
     padding: 8px 16px;
     margin: 0 16px;
     border-radius: 8px;

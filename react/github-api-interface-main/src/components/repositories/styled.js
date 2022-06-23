@@ -1,7 +1,12 @@
 import styled from "styled-components";
 import { Tabs, TabList, Tab, TabPanel } from "react-tabs";
 
+/*export const body = styled(body) `
+  background-color: #4e545c;
+
+  `;*/
 export const WrapperTabs = styled(Tabs)`
+  
   font-size: 16px;
   width: 100%;
   margin-top: 16px;
@@ -51,4 +56,5 @@ export const WrapperList = styled.div`
   display: flex;
   justify-content: flex-start;
   flex-wrap: wrap;
+  
 `;
