@@ -52,3 +52,16 @@ npm install --save styled-components
 °Instalando o Rudux
 npm install react-redux
 npm install -- save-dev redux-devtools  = estalar extenção no chrome web
+
+°Criar projeto template redux
+npx create-react-app my-app --template redux
+
+npm install @reduxjs/toolkit
+yarn add @reduxjs/toolkit
+
+
+
+.............................
+
+ ° Iniciando no node utilizando Express
+npm install express --save ACOMPANHE COM INIT
