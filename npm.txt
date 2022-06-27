@@ -65,3 +65,8 @@ yarn add @reduxjs/toolkit
 
  ° Iniciando no node utilizando Express
 npm install express --save ACOMPANHE COM INIT
+
+.................
+Encurtador de Url
+npm install --save shortid
+
