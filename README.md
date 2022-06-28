@@ -4,9 +4,11 @@
 
 <h1>SPREAD FullStack Developer<h1>
 </div>
-
+  
+<div>  
 <img src = "https://github.com/LuizGustavodeSouza/Dio-Desafio-Projeto/blob/main/img/icons8-linkedin-circled-48.png" href=""https://www.linkedin.com/in/luiz-gustavo-de-souza-848b9515a/>
-
+</div>
+  
 ## O Bootcamp Spread Fullstack Developer é um programa de estudos intensivos para desenvolvedores que querem evoluir em sua jornada de desenvolvimento de software com uma base sólida em tecnologias essenciais de Front-End e Back-End.
   
 ## Módulos Bootcamp
