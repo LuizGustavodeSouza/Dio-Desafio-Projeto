@@ -8,22 +8,10 @@
 ## O Bootcamp Spread Fullstack Developer é um programa de estudos intensivos para desenvolvedores que querem evoluir em sua jornada de desenvolvimento de software com uma base sólida em tecnologias essenciais de Front-End e Back-End.
   
 ## Módulos Bootcamp
-##### Banco de Dados
-##### HTML + CSS3
-#####Javascript
-##### NodeJS
-##### ReactJS
-##### Materiais de Apoio
+##### Banco de Dados, HTML, CSS3, Javascript , NodeJS, ReactJS, Materiais de Apoio.
   
 ## Projetos / Desafios de Código
-Desafios de Código
-To-Do List
-Contador
-Estacionamento
-Light Mode/Dark Mode
-Cat API
-Interface Instagram
-Flex Projeto
+##### Desafios de Código, To-Do List, Contador, Estacionamento, Light Mode/Dark Mode, Cat API, Interface Instagram, Flex Projeto,
 Encurtador de URL
   
   
