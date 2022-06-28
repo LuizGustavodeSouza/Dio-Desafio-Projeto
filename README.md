@@ -12,8 +12,7 @@
 ##### Banco de Dados, HTML, CSS3, Javascript , NodeJS, ReactJS, Materiais de Apoio.
   
 ## Projetos / Desafios de Código
-##### Desafios de Código, To-Do List, Contador, Estacionamento, Light Mode/Dark Mode, Cat API, Interface Instagram, Flex Projeto,
-Encurtador de URL
+##### Desafios de Código, To-Do List, Contador, Estacionamento, Light Mode/Dark Mode, Cat API, Interface Instagram, Flex Projeto, Encurtador de URL.
   
   
 ![Certificado de Conclusão](https://github.com/LuizGustavodeSouza/Dio-Desafio-Projeto/blob/main/img/1C192B33.PNG)
