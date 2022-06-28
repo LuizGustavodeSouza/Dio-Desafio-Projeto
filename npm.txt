@@ -69,4 +69,15 @@ npm install express --save ACOMPANHE COM INIT
 .................
 Encurtador de Url
 npm install --save shortid
-
+npm i mongoose @types/mongoose
+npm i @hasezoey/typegoose
+......................
+Trabalhar com node/PostgreSql
+npm install --save pg
+..............
+°Para criar a pasta disc com nosso JS
+npm run build
+tsc ./  para traspilar
+npm install --save-dev @types/express
+npm install --save-dev @types/node
+npm install --save-dev ts-node-dev
